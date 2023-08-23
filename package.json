@@ -35,11 +35,6 @@
     "regenerator-runtime": "^0.13.7",
     "rollup-plugin-image-files": "^1.4.2"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "tsdx lint"
-    }
-  },
   "devDependencies": {
     "@types/react": "^16.9.49",
     "@types/react-dom": "^16.9.8",
